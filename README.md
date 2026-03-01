@@ -1,9 +1,9 @@
-# Hi there, I'm Jay 👋
+# Jay
 
 [![GitHub followers](https://img.shields.io/github/followers/jayjz?style=social)](https://github.com/jayjz)
 [![GitHub stars](https://img.shields.io/github/stars/jayjz?style=social)](https://github.com/jayjz)
 
-## 🚀 About Me
+## about me or something
 
 Veteran technologist with roots dating back to the dial-up era, now pioneering the frontier of **Small Language Models (SLMs)** and **AI-powered automation**. I specialize in building autonomous agent systems that solve real-world business problems with practical, efficient AI solutions.
 
@@ -16,14 +16,14 @@ class Developer:
         self.approach = "Practical AI that delivers real value"
 ```
 
-## 🔬 Current Focus
+## 🔬Current Focus
 
 - **Small Language Models (SLMs)**: Developing efficient, specialized AI agents
 - **Autonomous Systems**: Building multi-agent frameworks for complex workflows
 - **FinTech Innovation**: AI-powered financial compliance and automation
 - **Code Modernization**: Automated refactoring and technical debt elimination
 
-## 🛠️ Featured Projects
+## Featured Projects
 
 ### 🔍 [AuditMap](https://github.com/jayjz/AuditMap)
 An autonomous FinTech agent that revolutionizes corporate expense auditing through the combination of SLMs and OCR technology. Automatically validates expenses against company policies, eliminating manual review bottlenecks.
@@ -46,6 +46,8 @@ Autonomous multi-agent system powered by SLMs for automated code modernization, 
 - Python (Primary)
 - HTML/CSS
 - JavaScript
+- C++
+
 
 **AI/ML Technologies**
 - Small Language Models (SLMs)
