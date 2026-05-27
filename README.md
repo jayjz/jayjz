@@ -1,91 +1,78 @@
-# Jay
+# Jay 
 
 [![GitHub followers](https://img.shields.io/github/followers/jayjz?style=social)](https://github.com/jayjz)
 [![GitHub stars](https://img.shields.io/github/stars/jayjz?style=social)](https://github.com/jayjz)
 
-## about me or something
+## About me or something
+**Autonomous AI systems builder.** Focused on practical multi-agent architectures, SLM-powered tools, and shipping real (if sometimes weird) applications in 2026.
 
-Veteran technologist with roots dating back to the dial-up era, now pioneering the frontier of **Small Language Models (SLMs)** and **AI-powered automation**. I specialize in building autonomous agent systems that solve real-world business problems with practical, efficient AI solutions.
+I build agents that *do* things — code modernization, threat detection, data exploration — rather than just chat. Current obsessions: lightweight agent orchestration, edge-capable intelligence, and closing the loop between idea → deployed system.
 
 ```python
-class Developer:
+class Builder:
     def __init__(self):
         self.name = "Jay"
-        self.expertise = ["AI/ML", "SLMs", "Multi-Agent Systems", "FinTech"]
-        self.passion = "Pushing the boundaries of machine learning"
-        self.approach = "Practical AI that delivers real value"
-```
+        self.expertise = ["Multi-Agent Systems", "SLMs", "Autonomous Agents", "Code Automation", "Practical AI"]
+        self.approach = "Ship fast, iterate in public, learn by breaking things"
+        self.current_mode = "AgentForge + real-world deployment"
+## 🔬 Current Focus (2026)
 
-## 🔬Current Focus
+Multi-Agent Frameworks: Orchestrating specialist agents for complex tasks (Lead Architect + domain experts)
+SLM-Powered Automation: Efficient, deployable intelligence over bloated LLMs
+Autonomous Tooling: From code refactoring to anomaly/psyop detection
+Full-Stack Agent Apps: Next.js + Python backends that actually work in production
 
-- **Small Language Models (SLMs)**: Developing efficient, specialized AI agents
-- **Autonomous Systems**: Building multi-agent frameworks for complex workflows
-- **FinTech Innovation**: AI-powered financial compliance and automation
-- **Code Modernization**: Automated refactoring and technical debt elimination
+Featured Projects
+🔧 CodeForgeSLM
+Autonomous multi-agent system for code modernization, refactoring, testing, and technical debt removal. Powered by SLMs and AgentForge patterns. Recently revived with working Lead Architect + specialist agents.
+Tech: Python | Multi-Agent | SLM | AgentForge
+🛡️ psyop-threat-gauge
+OpenClaw skill + orchestrator for psyop detection. Full wrapper with bridge and fallback logic. Practical signal processing for information warfare signals.
+Tech: Python | OpenClaw | Detection Pipelines
+📍 biblemap
+Interactive map of Biblical events with phased timelines and geospatial data. Heavy on data pipelines, static exports, and Vercel reliability fixes. (Yes, I build weird shit too.)
+Tech: TypeScript | Next.js | Data Processing | Parquet
+🏙️ agentville
+Agent-centric environment/demo hub. Early-stage exploration of agent interactions.
+Tech: TypeScript
+📖 storyteller
+Narrative pipeline for structured story generation and processing.
+Tech: Python
+(VeritasExpense is archived in spirit — solid 2025 work but not current focus.)
+💻 Tech Stack
+Core
 
-## Featured Projects
+Python (primary for agents)
+TypeScript / Next.js (frontends + full apps)
+Multi-Agent Orchestration (AgentForge patterns)
 
-### 🔍 [AuditMap](https://github.com/jayjz/AuditMap)
-An autonomous FinTech agent that revolutionizes corporate expense auditing through the combination of SLMs and OCR technology. Automatically validates expenses against company policies, eliminating manual review bottlenecks.
+AI/ML
 
-**Tech Stack:** Python | SLM | OCR | FinTech
+Small Language Models (SLMs)
+Autonomous Agent Systems
+Detection & Analysis Pipelines
+Document/Data Processing
 
-### 💼 [VeritasExpense](https://github.com/jayjz/VeritasExpense)
-Advanced AI framework for detecting anomalies and non-compliant transactions in corporate expense reports. Leverages LLMs to identify patterns and policy violations that traditional rule-based systems miss.
+Domains
 
-**Tech Stack:** Python | LLM | Anomaly Detection | Compliance
+Code Automation & Modernization
+Information/Threat Analysis
+Practical Deployed Agents
+Data Exploration Tools
 
-### ⚙️ [CodeForgeSLM](https://github.com/jayjz/CodeForgeSLM)
-Autonomous multi-agent system powered by SLMs for automated code modernization, refactoring, testing, and technical debt elimination. Transforms legacy codebases into modern, maintainable systems.
-
-**Tech Stack:** Python | Multi-Agent Systems | SLM | Code Analysis
-
-## 💻 Tech Stack
-
-**Languages & Frameworks**
-- Python (Primary)
-- HTML/CSS
-- JavaScript
-- C++
-
-
-**AI/ML Technologies**
-- Small Language Models (SLMs)
-- Large Language Models (LLMs)
-- Multi-Agent Systems
-- OCR & Document Processing
-- Anomaly Detection
-
-**Domains**
-- FinTech & Financial Compliance
-- Autonomous Agents
-- Code Modernization
-- Process Automation
-
-## 🌟 Philosophy
-
-> "The best AI solutions aren't always the biggest models—they're the ones that solve real problems efficiently."
-
+Philosophy
+"In 2026, the winners won't have the biggest models — they'll have the agents that actually ship and adapt."
 I believe in:
-- **Practical AI**: Building solutions that deliver tangible business value
-- **Efficient Models**: Using SLMs where they outperform larger alternatives
-- **Autonomous Systems**: Creating agents that work independently and intelligently
-- **Continuous Innovation**: Leveraging new frameworks to push what's possible
 
-## 📊 GitHub Stats
+Autonomy over hype: Agents that run independently
+Efficiency: SLMs where they beat giants
+Reality bias: Build it, deploy it, fix it in prod
+Range: From FinTech compliance to Bible maps to psyop tools
 
-![Jay's GitHub stats](https://github-readme-stats.vercel.app/api?username=jayjz&show_icons=true&theme=dark&hide_border=true)
+📊 GitHub Stats
+<img src="https://github-readme-stats.vercel.app/api?username=jayjz&#x26;show_icons=true&#x26;theme=dark&#x26;hide_border=true" alt="Jay&#x27;s GitHub stats">
+🤝 Connect
+Open to serious collaborations on agent systems, SLM applications, or autonomous tooling.
+Explore the repos. Open issues. Let's build agents that matter.
 
-## 🤝 Connect & Collaborate
-
-I'm always interested in:
-- Collaborating on AI/ML projects
-- Discussing SLM architectures and applications
-- Exploring autonomous agent systems
-- Sharing knowledge about practical AI implementation
-
-Feel free to explore my repositories, open issues, or start discussions. Let's build something innovative together!
-
----
-
-⭐️ From [jayjz](https://github.com/jayjz) | 💡 *Transforming businesses through intelligent automation*
+⭐️ From jayjz | Agents that ship.
