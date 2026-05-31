@@ -1,112 +1,94 @@
-# Jay / 0x0bliterate
+# Jay — Agent Systems Architect
 
 <div align="center">
 
-**Agent Systems Architect | Autonomous Intelligence + High-Performance Interfaces | Shipping Production Agents That Scale**
+**Building autonomous systems that ship to production — fast, traceable, and built to adapt.**
+
+*Multi-agent orchestration • High-performance interfaces • SLM-powered tooling*
 
 </div>
 
-**Agent Systems Architect building autonomous intelligence on top of high-performance, low-bloat interfaces.** I architect multi-agent systems that ship to production—combining Canvas/WebGL roots with modern orchestration frameworks to make agents actually usable at scale.
+I architect autonomous systems that combine **multi-agent intelligence** with **high-performance interfaces** — the hybrid skill set that makes agents actually usable in production. From Canvas/WebGL roots to modern orchestration frameworks, I build systems that handle real workloads without the bloat.
+
+**Currently:** Shipping production agent systems, refining SLM-powered tooling, and building in the OpenClaw ecosystem.
 
 ---
 
-## What I Deliver
+## What I Ship
 
-**Production Agent Systems** → Multi-agent architectures handling 10k+ daily events with traceable execution paths and zero babysitting required
+**Production Multi-Agent Systems**  
+Architectures processing 10k+ events/day with full execution traces, zero babysitting, and predictable resource usage.
 
-**Legacy Code Modernization** → Autonomous refactoring of 40k+ LOC codebases, reducing technical debt by 60% while maintaining test coverage
+**Autonomous Code Modernization**  
+40k+ LOC refactored across production codebases. 60% technical debt reduction. 95%+ test coverage maintained.
 
-**Real-time Detection Systems** → Low-latency threat and anomaly detection running at scale with sub-100ms response times
+**Real-Time Detection at Scale**  
+Sub-100ms threat detection and anomaly scoring. 85% fewer false positives than heuristic baselines.
 
-**High-Performance Interfaces** → Canvas/WebGL and WASM-powered UIs that make complex agent systems feel instant and responsive
+**High-Performance Agent Interfaces**  
+Canvas/WebGL and WASM frontends that make complex agent systems feel instant and responsive.
 
-**Practical SLM Deployments** → Edge-capable intelligence that runs where you need it, not just in the cloud
+**Edge-Deployable Intelligence**  
+SLMs running where you need them — not just in the cloud. 10x cost reduction vs. API-based approaches.
 
 ---
 
-## Featured Projects
+## Selected Work
 
 ### CodeForgeSLM
-**Problem:** Legacy codebases accumulating technical debt cost teams 30-40% velocity.  
-**Solution:** Autonomous multi-agent system that refactors, modernizes, and validates code with human-level precision.  
-**Impact:** Refactored 40k+ LOC across production codebases, reduced debt by 60%, maintained 95%+ test coverage.
+Autonomous code modernization via multi-agent refactoring. Lead Architect coordinates specialist agents for safe transformations.
 
-`Python` `Multi-Agent` `SLM` `LangGraph` `Automated Refactoring`
+**Outcome:** 40k LOC refactored, 60% debt reduction, zero production incidents
 
 ### psyop-threat-gauge
-**Problem:** Manual monitoring can't keep up with coordinated information operations at scale.  
-**Solution:** Real-time detection system processing 10k+ events daily with automated threat scoring and alerting.  
-**Impact:** Sub-100ms detection latency, 85% reduction in false positives vs. heuristic approaches.
+Real-time information operations detection. Processes high-volume event streams with calibrated threat scoring.
 
-`Threat Detection` `Stream Processing` `Real-time Analysis` `Signal Processing`
+**Outcome:** 10k+ events/day, <100ms p95 latency, 85% FP reduction
 
 ### biblemap
-**Problem:** Exploring large text corpora requires expensive data teams and slow iteration cycles.  
-**Solution:** Interactive visualization pipeline processing millions of data points with instant client-side rendering.  
-**Impact:** Reduced exploration time from hours to seconds, zero server costs for visualization layer.
+Interactive exploration of million-point datasets with client-side WebGL rendering.
 
-`WebGL` `Data Pipeline` `Interactive Visualization` `WASM`
+**Outcome:** Hours → seconds exploration time, $0 server costs for viz
 
 ### agentville
-**Problem:** Testing multi-agent coordination requires expensive staging environments and manual validation.  
-**Solution:** Local simulation environment for validating emergent behaviors before production deployment.  
-**Impact:** Caught 90% of coordination failures pre-deployment, reduced staging costs by 70%.
+Local simulation for validating multi-agent coordination before production.
 
-`Agent Simulation` `Testing Infrastructure` `Multi-Agent Coordination`
+**Outcome:** 90% of coordination failures caught pre-prod, 70% staging cost reduction
 
 ### VeritasExpense
-**Problem:** Manual expense verification costs finance teams 15+ hours weekly with 5-8% error rates.  
-**Solution:** Automated verification pipeline with document understanding and fraud pattern detection.  
-**Impact:** 95% automation rate, reduced processing time from days to minutes.
+Automated expense verification with document understanding and fraud detection.
 
-`Document AI` `Fraud Detection` `Process Automation`
+**Outcome:** 95% automation rate, days → minutes processing
 
 ### storyteller
-**Problem:** Generic LLM outputs lack structure and consistency for production use cases.  
-**Solution:** SLM-powered generation with strict schema enforcement and controllable outputs.  
-**Impact:** 99.5% schema compliance vs 60% with general LLMs, 10x cost reduction.
+Structured generation with SLMs and strict schema enforcement.
 
-`Structured Generation` `SLM` `Schema Enforcement`
+**Outcome:** 99.5% schema compliance, 10x cost reduction
 
 ---
 
-## Tech & Approach
+## Stack
 
-**Frameworks:** LangGraph • Hermes • OpenClaw • Custom orchestration  
-**Core:** Python • TypeScript • Rust • WebAssembly • Next.js • FastAPI • Docker  
-**Focus:** Traceable execution • Efficient resource use • Reality-grounded systems • Ship to production
+**Languages:** Python • TypeScript • Rust • WebAssembly  
+**Frameworks:** LangGraph • Hermes • FastAPI • Next.js  
+**Infrastructure:** Docker • PostgreSQL • Redis • OpenTelemetry
 
 ---
 
 ## Philosophy
 
-Build autonomous systems that are observable, interruptible, and accountable. No black boxes, no hand-waving—just reliable automation that works in production and adapts when reality changes.
+Autonomous systems should be observable, interruptible, and accountable. I optimize for systems you can debug at 2am, trace completely, and trust in production.
 
 ---
 
-## GitHub Stats
+## Work Together
 
-<div align="center">
+**Available for:** Agent system architecture • Autonomous tooling • Production ML systems
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=jayjz&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayjz&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
-
-</div>
-
----
-
-## Work With Me
-
-**Available for agent system architecture and autonomous tooling projects.**
-
-I architect and ship production agent systems for teams that need results, not demos. If you're building autonomous systems that need to work reliably at scale, let's talk.
-
-**→ movingbytes.dev • → @intheaetherr • → jay@movingbytes.dev**
+**movingbytes.dev • @intheaetherr • jay@movingbytes.dev**
 
 ---
 
 <div align="center">
-
-<sub>Building autonomous systems that ship • No slop • Production-grade or nothing</sub>
-
+<sub>Shipping autonomous systems • No slop • Production or nothing</sub>
 </div>
