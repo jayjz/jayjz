@@ -103,7 +103,7 @@ Build autonomous systems that are observable, interruptible, and accountable. No
 
 I architect and ship production agent systems for teams that need results, not demos. If you're building autonomous systems that need to work reliably at scale, let's talk.
 
-**→ movingbytes.dev • → @intheaetherr • → jay@movingbytes.dev**
+**→ movingbytes.dev  • → jay@movingbytes.dev**
 
 ---
 
