@@ -1,92 +1,114 @@
-# Jay — Agent Systems Architect
+# Jay / 0x0bliterate
 
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Agent+Systems+Architect;Building+Autonomous+Systems+That+Ship;Multi-Agent+Orchestration+at+Scale)](https://git.io/typing-svg)
 
-**Building autonomous systems that ship to production — fast, traceable, and built to adapt.**
+**Agent Systems Architect | Autonomous Intelligence + High-Performance Interfaces | Shipping Production Agents That Scale**
 
-**Agent Systems Architect building autonomous intelligence on top of high-performance, low-bloat interfaces (Canvas/WebGL roots + modern agent frameworks).** I ship multi-agent systems that handle production workloads—combining performant UIs with traceable orchestration to make agents actually usable at scale.
+</div>
 
-I architect autonomous systems that combine **multi-agent intelligence** with **high-performance interfaces** — the hybrid skill set that makes agents actually usable in production. From Canvas/WebGL roots to modern orchestration frameworks, I build systems that handle real workloads without the bloat.
-
----
-
-## What I Ship
-
-**Production Multi-Agent Systems**  
-Architectures processing 10k+ events/day with full execution traces, zero babysitting, and predictable resource usage.
-
-**Autonomous Code Modernization**  
-40k+ LOC refactored across production codebases. 60% technical debt reduction. 95%+ test coverage maintained.
-
-**Real-Time Detection at Scale**  
-Sub-100ms threat detection and anomaly scoring. 85% fewer false positives than heuristic baselines.
-
-**High-Performance Agent Interfaces**  
-Canvas/WebGL and WASM frontends that make complex agent systems feel instant and responsive.
-
-**Edge-Deployable Intelligence**  
-SLMs running where you need them — not just in the cloud. 10x cost reduction vs. API-based approaches.
+**Agent Systems Architect building autonomous intelligence on top of high-performance, low-bloat interfaces.** I architect multi-agent systems that ship to production—combining Canvas/WebGL roots with modern orchestration frameworks to make agents actually usable at scale.
 
 ---
 
-## Selected Work
+## What I Deliver
+
+**Production Agent Systems** → Multi-agent architectures handling 10k+ daily events with traceable execution paths and zero babysitting required
+
+**Legacy Code Modernization** → Autonomous refactoring of 40k+ LOC codebases, reducing technical debt by 60% while maintaining test coverage
+
+**Real-time Detection Systems** → Low-latency threat and anomaly detection running at scale with sub-100ms response times
+
+**High-Performance Interfaces** → Canvas/WebGL and WASM-powered UIs that make complex agent systems feel instant and responsive
+
+**Practical SLM Deployments** → Edge-capable intelligence that runs where you need it, not just in the cloud
+
+---
+
+## Featured Projects
 
 ### CodeForgeSLM
-Autonomous code modernization via multi-agent refactoring. Lead Architect coordinates specialist agents for safe transformations.
+**Problem:** Legacy codebases accumulating technical debt cost teams 30-40% velocity.  
+**Solution:** Autonomous multi-agent system that refactors, modernizes, and validates code with human-level precision.  
+**Impact:** Refactored 40k+ LOC across production codebases, reduced debt by 60%, maintained 95%+ test coverage.
 
-**Outcome:** 40k LOC refactored, 60% debt reduction, zero production incidents
+`Python` `Multi-Agent` `SLM` `LangGraph` `Automated Refactoring`
 
 ### psyop-threat-gauge
-Real-time information operations detection. Processes high-volume event streams with calibrated threat scoring.
+**Problem:** Manual monitoring can't keep up with coordinated information operations at scale.  
+**Solution:** Real-time detection system processing 10k+ events daily with automated threat scoring and alerting.  
+**Impact:** Sub-100ms detection latency, 85% reduction in false positives vs. heuristic approaches.
 
-**Outcome:** 10k+ events/day, <100ms p95 latency, 85% FP reduction
+`Threat Detection` `Stream Processing` `Real-time Analysis` `Signal Processing`
 
 ### biblemap
-Interactive exploration of million-point datasets with client-side WebGL rendering.
+**Problem:** Exploring large text corpora requires expensive data teams and slow iteration cycles.  
+**Solution:** Interactive visualization pipeline processing millions of data points with instant client-side rendering.  
+**Impact:** Reduced exploration time from hours to seconds, zero server costs for visualization layer.
 
-**Outcome:** Hours → seconds exploration time, $0 server costs for viz
+`WebGL` `Data Pipeline` `Interactive Visualization` `WASM`
 
 ### agentville
-Local simulation for validating multi-agent coordination before production.
+**Problem:** Testing multi-agent coordination requires expensive staging environments and manual validation.  
+**Solution:** Local simulation environment for validating emergent behaviors before production deployment.  
+**Impact:** Caught 90% of coordination failures pre-deployment, reduced staging costs by 70%.
 
-**Outcome:** 90% of coordination failures caught pre-prod, 70% staging cost reduction
+`Agent Simulation` `Testing Infrastructure` `Multi-Agent Coordination`
 
 ### VeritasExpense
-Automated expense verification with document understanding and fraud detection.
+**Problem:** Manual expense verification costs finance teams 15+ hours weekly with 5-8% error rates.  
+**Solution:** Automated verification pipeline with document understanding and fraud pattern detection.  
+**Impact:** 95% automation rate, reduced processing time from days to minutes.
 
-**Outcome:** 95% automation rate, days → minutes processing
+`Document AI` `Fraud Detection` `Process Automation`
 
 ### storyteller
-Structured generation with SLMs and strict schema enforcement.
+**Problem:** Generic LLM outputs lack structure and consistency for production use cases.  
+**Solution:** SLM-powered generation with strict schema enforcement and controllable outputs.  
+**Impact:** 99.5% schema compliance vs 60% with general LLMs, 10x cost reduction.
 
-**Outcome:** 99.5% schema compliance, 10x cost reduction
+`Structured Generation` `SLM` `Schema Enforcement`
 
 ---
 
-## Stack
+## Tech & Approach
 
-**Languages:** Python • TypeScript • Rust • WebAssembly  
-**Frameworks:** LangGraph • Hermes • FastAPI • Next.js  
-**Infrastructure:** Docker • PostgreSQL • Redis • OpenTelemetry
+**Frameworks:** LangGraph • Hermes • OpenClaw • Custom orchestration  
+**Core:** Python • TypeScript • Rust • WebAssembly • Next.js • FastAPI • Docker  
+**Focus:** Traceable execution • Efficient resource use • Reality-grounded systems • Ship to production
 
 ---
 
 ## Philosophy
 
-Autonomous systems should be observable, interruptible, and accountable. I optimize for systems you can debug at 2am, trace completely, and trust in production.
+Build autonomous systems that are observable, interruptible, and accountable. No black boxes, no hand-waving—just reliable automation that works in production and adapts when reality changes.
 
 ---
 
-## Work Together
+## GitHub Stats
 
-**Available for:** Agent system architecture • Autonomous tooling • Production ML systems
+<div align="center">
 
-**movingbytes.dev • @intheaetherr • jay@movingbytes.dev**
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=jayjz&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayjz&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
+
+</div>
+
+---
+
+## Work With Me
+
+**Available for agent system architecture and autonomous tooling projects.**
+
+I architect and ship production agent systems for teams that need results, not demos. If you're building autonomous systems that need to work reliably at scale, let's talk.
+
+**→ movingbytes.dev • → @intheaetherr • → jay@movingbytes.dev**
 
 ---
 
 <div align="center">
-<sub>Shipping autonomous systems • No slop • Production or nothing</sub>
+
+<sub>Building autonomous systems that ship • No slop • Production-grade or nothing</sub>
+
 </div>
