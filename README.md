@@ -1,78 +1,131 @@
-# Jay 
+# Jay / 0x0bliterate
 
-[![GitHub followers](https://img.shields.io/github/followers/jayjz?style=social)](https://github.com/jayjz)
-[![GitHub stars](https://img.shields.io/github/stars/jayjz?style=social)](https://github.com/jayjz)
+<div align="center">
 
-## About me or something
-**Autonomous AI systems builder.** Focused on practical multi-agent architectures, SLM-powered tools, and shipping real (if sometimes weird) applications in 2026.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Agent+Systems+Architect;Building+Autonomous+Systems+That+Ship;Multi-Agent+Orchestration+at+Scale)](https://git.io/typing-svg)
 
-I build agents that *do* things — code modernization, threat detection, data exploration — rather than just chat. Current obsessions: lightweight agent orchestration, edge-capable intelligence, and closing the loop between idea → deployed system.
+</div>
 
-```python
-class Builder:
-    def __init__(self):
-        self.name = "Jay"
-        self.expertise = ["Multi-Agent Systems", "SLMs", "Autonomous Agents", "Code Automation", "Practical AI"]
-        self.approach = "Ship fast, iterate in public, learn by breaking things"
-        self.current_mode = "AgentForge + real-world deployment"
-## 🔬 Current Focus (2026)
+**Building production-grade autonomous systems that ship fast, run traceably, and adapt in the wild.** Specialized in multi-agent architectures, SLM-powered tooling, and the OpenClaw ecosystem for real-world deployment.
 
-Multi-Agent Frameworks: Orchestrating specialist agents for complex tasks (Lead Architect + domain experts)
-SLM-Powered Automation: Efficient, deployable intelligence over bloated LLMs
-Autonomous Tooling: From code refactoring to anomaly/psyop detection
-Full-Stack Agent Apps: Next.js + Python backends that actually work in production
+---
 
-Featured Projects
-🔧 CodeForgeSLM
-Autonomous multi-agent system for code modernization, refactoring, testing, and technical debt removal. Powered by SLMs and AgentForge patterns. Recently revived with working Lead Architect + specialist agents.
-Tech: Python | Multi-Agent | SLM | AgentForge
-🛡️ psyop-threat-gauge
-OpenClaw skill + orchestrator for psyop detection. Full wrapper with bridge and fallback logic. Practical signal processing for information warfare signals.
-Tech: Python | OpenClaw | Detection Pipelines
-📍 biblemap
-Interactive map of Biblical events with phased timelines and geospatial data. Heavy on data pipelines, static exports, and Vercel reliability fixes. (Yes, I build weird shit too.)
-Tech: TypeScript | Next.js | Data Processing | Parquet
-🏙️ agentville
-Agent-centric environment/demo hub. Early-stage exploration of agent interactions.
-Tech: TypeScript
-📖 storyteller
-Narrative pipeline for structured story generation and processing.
-Tech: Python
-(VeritasExpense is archived in spirit — solid 2025 work but not current focus.)
-💻 Tech Stack
-Core
+## What I Build
 
-Python (primary for agents)
-TypeScript / Next.js (frontends + full apps)
-Multi-Agent Orchestration (AgentForge patterns)
+**Autonomous Agent Systems** → Multi-agent orchestration for code modernization, threat detection, and data pipelines that run without babysitting
 
-AI/ML
+**SLM-Powered Tooling** → Efficient, deployable intelligence over bloated LLMs. Edge-capable agents that work where you need them
 
-Small Language Models (SLMs)
-Autonomous Agent Systems
-Detection & Analysis Pipelines
-Document/Data Processing
+**Production Agent Infrastructure** → OpenClaw-native systems with proper observability, state management, and zero-slop execution paths
 
-Domains
+**Practical Automation** → From legacy code refactoring to real-time anomaly detection. Agents that do work, not just chat.
 
-Code Automation & Modernization
-Information/Threat Analysis
-Practical Deployed Agents
-Data Exploration Tools
+---
 
-Philosophy
-"In 2026, the winners won't have the biggest models — they'll have the agents that actually ship and adapt."
-I believe in:
+## Featured Projects
 
-Autonomy over hype: Agents that run independently
-Efficiency: SLMs where they beat giants
-Reality bias: Build it, deploy it, fix it in prod
-Range: From FinTech compliance to Bible maps to psyop tools
+### 🔧 [CodeForgeSLM](https://github.com/jayjz/CodeForgeSLM)
+Autonomous multi-agent system for code modernization and technical debt elimination. Lead Architect pattern with specialist agents for refactoring, testing, and validation. Production-ready with traceable execution.
 
-📊 GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api?username=jayjz&#x26;show_icons=true&#x26;theme=dark&#x26;hide_border=true" alt="Jay&#x27;s GitHub stats">
-🤝 Connect
-Open to serious collaborations on agent systems, SLM applications, or autonomous tooling.
-Explore the repos. Open issues. Let's build agents that matter.
+`Python` `Multi-Agent` `SLM` `AgentForge` `Code Automation`
 
-⭐️ From jayjz | Agents that ship.
+### 🛡️ [psyop-threat-gauge](https://github.com/jayjz/psyop-threat-gauge)
+Real-time psyop and information warfare detection system. OpenClaw skill with orchestrator, bridge patterns, and fallback logic for signal processing at scale.
+
+`Threat Detection` `Signal Processing` `OpenClaw` `Real-time Analysis`
+
+### 🗺️ [biblemap](https://github.com/jayjz/biblemap)
+Interactive data visualization pipeline for large-scale text analysis. Demonstrates agent-driven data processing and modern web delivery.
+
+`Data Visualization` `Pipeline Architecture` `Interactive Maps` `Data Processing`
+
+### 🏘️ [agentville](https://github.com/jayjz/agentville)
+Multi-agent simulation environment for testing autonomous behaviors and emergent coordination patterns.
+
+`Agent Simulation` `Emergent Behavior` `Multi-Agent Systems`
+
+### 📖 [storyteller](https://github.com/jayjz/storyteller)
+SLM-powered narrative generation with structured output and controllable generation parameters.
+
+`SLM` `Structured Generation` `Narrative AI`
+
+### 💰 [VeritasExpense](https://github.com/jayjz/VeritasExpense)
+Automated expense verification and fraud detection using practical AI approaches.
+
+`Fraud Detection` `Document Processing` `Automation`
+
+---
+
+## OpenClaw Ecosystem Contributions
+
+Active contributor to the OpenClaw autonomous agent ecosystem:
+
+- **[nanoclaw](https://github.com/openclaw/nanoclaw)** - Lightweight agent runtime
+- **[clawwork](https://github.com/openclaw/clawwork)** - Distributed work orchestration
+- **[OpenClaw Core](https://github.com/openclaw/openclaw)** - Core platform contributions
+
+---
+
+## Tech Stack
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+
+![OpenClaw](https://img.shields.io/badge/OpenClaw-58A6FF?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cGF0aCBkPSJNMTIgMkM2LjQ4IDIgMiA2LjQ4IDIgMTJTNi40OCAyMiAxMiAyMlMyMiAxNy41MiAyMiAxMlMxNy41MiAyIDEyIDJaTTEyIDIwQzcuNTkgMjAgNCAxNi40MSA0IDEyUzcuNTkgNCAxMiA0UzIwIDcuNTkgMjAgMTJTMTYuNDEgMjAgMTIgMjBaIiBmaWxsPSJ3aGl0ZSIvPjwvc3ZnPg==)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+</div>
+
+**Core:** Multi-Agent Orchestration • SLM Fine-tuning • Agent State Management • Distributed Systems  
+**Infrastructure:** OpenClaw • Docker • PostgreSQL + pgvector • Redis • Observability  
+**Approach:** Ship fast • Trace everything • Zero-slop execution • Production-first
+
+---
+
+## Philosophy
+
+> **Truthful autonomous systems over black-box magic.**
+> 
+> Agents should be observable, interruptible, and accountable. I build systems where you can trace every decision, understand why it happened, and intervene when needed. No hand-waving, no "it just works" — just reliable automation that ships and adapts.
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=jayjz&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayjz&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=jayjz&theme=github-dark-blue&hide_border=true" />
+
+</div>
+
+---
+
+## Let's Build
+
+**Available for freelance agent system architecture and autonomous tooling projects.**
+
+I help teams ship production agent systems that actually work — from initial architecture to deployed, observable systems. Specializing in OpenClaw-native implementations and multi-agent orchestration at scale.
+
+**Connect:**
+- 🌐 [movingbytes.dev](https://movingbytes.dev)
+- 𝕏 [@intheaetherr](https://x.com/intheaetherr)
+- 📧 jay@movingbytes.dev
+- 💼 Open to collaborations and consulting
+
+---
+
+<div align="center">
+
+**Building the autonomous future, one shipping agent at a time.**
+
+![Profile Views](https://komarev.com/ghpvc/?username=jayjz&color=58A6FF&style=flat-square)
+
+</div>
