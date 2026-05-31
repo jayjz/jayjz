@@ -2,15 +2,13 @@
 
 <div align="center">
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Agent+Systems+Architect;Building+Autonomous+Systems+That+Ship;Multi-Agent+Orchestration+at+Scale)](https://git.io/typing-svg)
+
 **Building autonomous systems that ship to production — fast, traceable, and built to adapt.**
 
-*Multi-agent orchestration • High-performance interfaces • SLM-powered tooling*
-
-</div>
+**Agent Systems Architect building autonomous intelligence on top of high-performance, low-bloat interfaces (Canvas/WebGL roots + modern agent frameworks).** I ship multi-agent systems that handle production workloads—combining performant UIs with traceable orchestration to make agents actually usable at scale.
 
 I architect autonomous systems that combine **multi-agent intelligence** with **high-performance interfaces** — the hybrid skill set that makes agents actually usable in production. From Canvas/WebGL roots to modern orchestration frameworks, I build systems that handle real workloads without the bloat.
-
-**Currently:** Shipping production agent systems, refining SLM-powered tooling, and building in the OpenClaw ecosystem.
 
 ---
 
