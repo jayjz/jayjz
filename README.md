@@ -1,20 +1,27 @@
 <div align="center">
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Agent+Systems+Architect;Ops-Native+Multi-Agent+Systems;Local-First+%26+Human-Accountable)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Agent+Systems+Architect;Ops-Native+Multi-Agent+Systems;Local-First+and+Human-Accountable)](https://git.io/typing-svg)
+
 **Agent Systems Architect | Building Autonomous Systems That Ship | Ops DNA + Production Patterns**
+
 </div>
 
 **Agent Systems Architect building autonomous intelligence on high-performance, low-bloat interfaces.** I design multi-agent systems that combine real-world operations grounding with modern orchestration (LangGraph, local SLMs, human-in-the-loop gates). From Canvas/WebGL roots to traceable, interruptible production patterns that actually work in messy environments.
-
 ---
 
 ## What I Deliver
-**Ops-Native Agent Systems** — Multi-agent workflows for inventory, scheduling, risk, and accounts receivable with mandatory human approval gates. Grounded in 10+ years leading HVAC/trades operations.
-**Local-First & Observable Architectures** — Full local deployment (Ollama + LangGraph + Docker), complete execution traces, checkpointing, and replay. No black boxes.
-**Creative Adversarial & Defensive Simulation** — Red/Blue team arenas and threat detection systems with narrative personas that produce measurable mechanical effects.
-**High-Performance Interfaces** — WebGL/Deck.gl, retro CRT aesthetics, and simulation environments that make complex agent coordination testable and usable.
-**Structured & Reliable Generation** — SLM-powered pipelines with strict schema enforcement and controllable outputs for production use cases.
-**Human-in-the-Loop by Design** — Approval gates, annotation loops, and continuous learning from outcomes — built for domains where mistakes are expensive.
 
+**Ops-Native Agent Systems** — Multi-agent workflows for inventory, scheduling, risk, and accounts receivable with mandatory human approval gates. Grounded in 10+ years leading HVAC/trades operations.
+
+**Local-First & Observable Architectures** — Full local deployment (Ollama + LangGraph + Docker), complete execution traces, checkpointing, and replay. No black boxes.
+
+**Creative Adversarial & Defensive Simulation** — Red/Blue team arenas and threat detection systems with narrative personas that produce measurable mechanical effects.
+
+**High-Performance Interfaces** — WebGL/Deck.gl, retro CRT aesthetics, and simulation environments that make complex agent coordination testable and usable.
+
+**Structured & Reliable Generation** — SLM-powered pipelines with strict schema enforcement and controllable outputs for production use cases.
+
+**Human-in-the-Loop by Design** — Approval gates, annotation loops, and continuous learning from outcomes — built for domains where mistakes are expensive.
 ---
 
 ## Featured Projects
@@ -73,8 +80,8 @@ I bring 10+ years of real operations leadership (crews, inventory, scheduling, r
 
 ## GitHub Stats
 <div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=jayjz&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayjz&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=jayjz&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayjz&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Top Languages" />
 </div>
 
 ---
