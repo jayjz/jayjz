@@ -1,25 +1,26 @@
 <div align="center">
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=620&lines=Agent+Systems+Architect;Ops-Native+Multi-Agent+Systems;Local-First+%E2%80%A2+Human-Accountable)](https://git.io/typing-svg)
-  
-  **Jay — Agent Systems Architect** 🚀  
-  *From leading HVAC crews to building production-grade autonomous systems that ship in messy reality.*
 </div>
 
-**I design observable, interruptible multi-agent systems grounded in 10+ years of real operations leadership.** No black-box demos. Local-first orchestration (LangGraph + Ollama + Docker) with mandatory human gates, full tracing, checkpointing, and replay — built for domains where failure costs real money and time.
+**Jay — Agent Systems Architect** 🚀  
+*From leading HVAC crews to building production-grade autonomous systems that ship in messy reality.*
 
 **[movingbytes.dev](https://movingbytes.dev)** — *Cinematic portfolio with particle canvas, retro simulations, and live demos*
+
+**Navigation**  
+[![Portfolio](https://img.shields.io/badge/-Portfolio-0366d6?style=flat&logo=vercel&logoColor=white)](https://movingbytes.dev)  
+[![X](https://img.shields.io/badge/-@intheaetherr-1DA1F2?style=flat&logo=x&logoColor=white)](https://x.com/intheaetherr)
 
 ---
 
 ## Talking about Personal Stuffs 🗣️
 
 - 👨‍💻 Currently building **production multi-agent systems** for ops, finance, and cybersecurity.
-- 🌱 Deepening **local AI orchestration** and evolving ClawX into agent economy simulators.
-- 🛠️ Open to collaboration on **ops-heavy agent workflows** in trades, facilities, or fintech.
+- 🌱 Deepening **local AI orchestration** (Ollama + LangGraph) and evolving ClawX into agent arenas.
+- 🛠️ Open to collaboration on **ops-heavy automation** in trades/facilities or fintech.
 - 📖 Love real-world ops grounding, human-in-the-loop design, and Bible storytelling pipelines (LuxTTS).
-- 🎨 Obsessed with cinematic interfaces, retro aesthetics (Agentville), writing, and faceless video gen.
-- 📍 Selective high-impact projects only.
-- ✉️ **jay@movingbytes.dev** 
+- 🎨 Obsessed with cinematic interfaces, retro aesthetics (Agentville), writing, and video gen.
+- ✉️ **jay@movingbytes.dev**
 
 ---
 
@@ -35,6 +36,19 @@
 <span style="background: #F7DF1E; color: black; padding: 4px 10px; border-radius: 9999px; font-size: 0.9em;">Pixi.js</span>
 <span style="background: #2496ED; color: white; padding: 4px 10px; border-radius: 9999px; font-size: 0.9em;">Docker</span>
 <span style="background: #2C3E50; color: white; padding: 4px 10px; border-radius: 9999px; font-size: 0.9em;">WebGL</span>
+**Core Languages & Orchestration**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) 
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) 
+![LangGraph](https://img.shields.io/badge/LangGraph-FF6B6B?style=flat-square&logo=langgraph&logoColor=white)
+
+**Local AI & Infra**  
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white) 
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+**Interfaces & Creative**  
+![WebGL](https://img.shields.io/badge/WebGL-000000?style=flat-square&logo=webgl&logoColor=white) 
+![Pixi.js](https://img.shields.io/badge/Pixi.js-FF6B6B?style=flat-square&logo=pixijs&logoColor=white) 
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 
 </div>
 
