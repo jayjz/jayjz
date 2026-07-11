@@ -7,96 +7,87 @@
 
 **I design observable, interruptible multi-agent systems grounded in 10+ years of real operations leadership.** No black-box demos. Local-first orchestration (LangGraph + Ollama + Docker) with mandatory human gates, full tracing, checkpointing, and replay — built for domains where failure costs real money and time.
 
-**→ [movingbytes.dev](https://movingbytes.dev)** — Cinematic portfolio with particle canvas, retro simulations, and live demos
+**[movingbytes.dev](https://movingbytes.dev)** — *Cinematic portfolio with particle canvas, retro simulations, and live demos*
 
 ---
 
 ## Talking about Personal Stuffs 🗣️
 
-- 👨‍💻 I'm currently building **production multi-agent systems** for ops, finance, and cybersecurity (hvac-ops-agent, agentplayground, local-adversarial-agent).
-- 🌱 I'm deepening **local AI orchestration** (Ollama + LangGraph + custom state machines) and turning ClawX into an agent economy simulator.
-- 🛠️ I'm looking to collaborate on **ops-heavy agent workflows** and observable automation in trades/facilities or fintech.
-- 📖 Ask me about real-world ops grounding, human-in-the-loop design, or Bible storytelling pipelines (LuxTTS).
-- 🎨 I love cinematic interfaces, retro aesthetics (Agentville), and creative output — writing, music, and faceless video pipelines.
-- 📍 Based in Nashua, NH area. Available for selective high-impact agent architecture and automation projects.
-- ✉️ Reach me: **jay@movingbytes.dev** | [@intheaetherr](https://x.com/intheaetherr)
+- 👨‍💻 Currently building **production multi-agent systems** for ops, finance, and cybersecurity.
+- 🌱 Deepening **local AI orchestration** and evolving ClawX into agent economy simulators.
+- 🛠️ Open to collaboration on **ops-heavy agent workflows** in trades, facilities, or fintech.
+- 📖 Love real-world ops grounding, human-in-the-loop design, and Bible storytelling pipelines (LuxTTS).
+- 🎨 Obsessed with cinematic interfaces, retro aesthetics (Agentville), writing, and faceless video gen.
+- 📍 Nashua, NH area. Selective high-impact projects only.
+- ✉️ **jay@movingbytes.dev** | [@intheaetherr](https://x.com/intheaetherr)
 
 ---
 
 ## Technologies & Tools I Work With 📚
 
-**Orchestration & Agents**  
-`Python` `LangGraph` `OpenClaw` `State Machines` `Human-in-the-Loop`
+<div style="display: flex; flex-wrap: wrap; gap: 8px; justify-content: center;">
 
-**Local AI & Inference**  
-`Ollama` `SLMs` `Docker` `FastAPI` `Streamlit`
+<span style="background: #4B8BBE; color: white; padding: 4px 10px; border-radius: 9999px; font-size: 0.9em;">Python</span>
+<span style="background: #3776AB; color: white; padding: 4px 10px; border-radius: 9999px; font-size: 0.9em;">LangGraph</span>
+<span style="background: #FF6B6B; color: white; padding: 4px 10px; border-radius: 9999px; font-size: 0.9em;">Ollama</span>
+<span style="background: #61DAFB; color: black; padding: 4px 10px; border-radius: 9999px; font-size: 0.9em;">TypeScript</span>
+<span style="background: #000000; color: white; padding: 4px 10px; border-radius: 9999px; font-size: 0.9em;">Next.js</span>
+<span style="background: #F7DF1E; color: black; padding: 4px 10px; border-radius: 9999px; font-size: 0.9em;">Pixi.js</span>
+<span style="background: #2496ED; color: white; padding: 4px 10px; border-radius: 9999px; font-size: 0.9em;">Docker</span>
+<span style="background: #2C3E50; color: white; padding: 4px 10px; border-radius: 9999px; font-size: 0.9em;">WebGL</span>
 
-**Frontend & Interfaces**  
-`TypeScript` `Next.js` `WebGL` `Pixi.js` `Framer Motion` `Retro CRT / Scanlines`
+</div>
 
-**Ops & Systems**  
-`HVAC / Trades Ops` `Inventory & Scheduling` `Risk & AR` `Observability` `Checkpointing & Replay`
+**Categories**  
+**Orchestration**: LangGraph • OpenClaw • State Machines • Human-in-the-Loop  
+**Local AI**: Ollama • SLMs • FastAPI • Streamlit  
+**Interfaces**: WebGL • Pixi.js • Retro CRT / Scanlines • Framer Motion  
+**Ops DNA**: HVAC/Trades • Inventory • Scheduling • Risk & AR • Observability  
 
-**Tooling & Dev**  
-`Git` `VS Code` `Linux (Kali/Mint)` `GitHub Actions` `Vercel`
-
-*(Full cinematic demos and live simulations on movingbytes.dev)*
+*(Full live demos on movingbytes.dev)*
 
 ---
 
-## Featured Projects (Demos on movingbytes.dev)
+## Featured Projects
 
 **hvac-ops-agent**  
-Production multi-agent orchestration for trades ops (inventory, scheduling, AR, risk) with Streamlit dashboard and mandatory human approval gates. Built from real crew-lead experience.  
-`Python • LangGraph • Docker • Human-in-the-Loop`  
-*[Live Demo / Repo]*
+Production multi-agent orchestration for trades ops (inventory, scheduling, AR, risk) with human approval gates. Real crew experience baked in.  
+`Python • LangGraph • Docker • Human-in-the-Loop` — [Live Demo / Repo]
 
 **agentplayground**  
-Agentic hedge-fund research copilot with real-time data, multi-factor risk modeling, paper trading, and full reasoning traces.  
+Agentic hedge-fund research copilot with real-time data, risk modeling, and auditable traces.  
 `LangGraph • Fintech • Observable AI`
 
 **local-adversarial-agent**  
-Fully local Red vs Blue AI simulation arena (Ollama + LangGraph). Narrative agents with mechanical impact + checkpoint replay for cybersecurity research.  
+Fully local Red vs Blue AI arena. Narrative agents + checkpoint replay.  
 `Ollama • Simulation • Red Team`
 
 **agentville**  
-Windows 95 retro multi-agent simulation shell (Pixi.js + draggable windows + CRT scanlines). Test coordination and emergent behaviors visually before production.  
-`TypeScript • Next.js • Pixi.js • Live Demo`
+Windows 95 retro multi-agent simulation shell (Pixi.js + CRT).  
+`TypeScript • Next.js • Pixi.js` — [Live Demo]
 
 **psyop-threat-gauge + storyteller**  
-Defensive rumor-swarm detection + strict schema-enforced SLM pipelines. Foundational patterns for accountable agent systems.  
+Defensive rumor detection + strict schema SLM pipelines.  
 `OpenClaw • Structured Output`
-
-*(More in pinned repos + full interactive demos on the cinematic site)*
 
 ---
 
 ## GitHub Stats + Snake Animation 🐍
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=jayjz&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayjz&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Top Languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=jayjz&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" alt="Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayjz&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Languages" />
 </div>
 
-**Contribution Snake** (animated — updates with new pushes)  
-![Snake animation](https://raw.githubusercontent.com/jayjz/jayjz/output/github-snake-dark.svg)  
-*(See workflow below to enable your own animated snake eating your contribution graph)*
+**Snake Animation** (updates on pushes)  
+![GitHub Snake](https://raw.githubusercontent.com/jayjz/jayjz/output/github-snake-dark.svg)
 
 ---
 
 ## Philosophy
 **Observable • Interruptible • Human-Accountable • Local-First • Reality-Grounded.**  
-I bring 10+ years leading crews, inventory, scheduling, and risk into agent design. The result is architecture that fits messy, resource-constrained, approval-heavy environments — not idealized lab conditions.
+10+ years ops leadership (crews, inventory, risk) meets agent systems. Bonus creative work: Bible storytelling, cinematic video, and personal second-brain tools.
 
-Bonus creative thread: Bible storytelling (LuxTTS), cinematic video pipelines, personal second-brain systems, and evolving ClawX into agent arenas.
+**Let's build** — jay@movingbytes.dev | [movingbytes.dev](https://movingbytes.dev) | [@intheaetherr](https://x.com/intheaetherr)
 
----
-
-## Let's Build Something Real
-**Available for selective agent system architecture, ops automation, and simulation projects** — especially trades/facilities, fintech ops, or cybersecurity workflows.
-
-I ship production-grade patterns: traceable execution, human accountability gates, local deployment, and interfaces that make complex systems usable.
-
-**jay@movingbytes.dev** | [movingbytes.dev](https://movingbytes.dev) | [@intheaetherr](https://x.com/intheaetherr)
-
-<sub>Production-grade or nothing • No slop • Autonomous systems that survive reality.</sub>
+<sub>Production-grade or nothing • No slop • Systems that survive reality.</sub>
