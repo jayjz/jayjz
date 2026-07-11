@@ -1,107 +1,70 @@
 <div align="center">
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=620&lines=Agent+Systems+Architect;Ops-Native+Multi-Agent+Systems;Local-First+%E2%80%A2+Human-Accountable)](https://git.io/typing-svg)
+  <a href="https://movingbytes.dev">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=27&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=620&lines=Agent+Systems+Architect;Ops-Native+Multi-Agent+Systems;Local-First+%E2%80%A2+Human-Accountable" alt="Typing SVG">
+  </a>
 </div>
 
-**Jay — Agent Systems Architect** 🚀  
-*From leading HVAC crews to building production-grade autonomous systems that ship in messy reality.*
+**👨‍💻 Hi, I'm Jay, an Agent Systems Architect** 🚀
 
-**[movingbytes.dev](https://movingbytes.dev)** — *Cinematic portfolio with particle canvas, retro simulations, and live demos*
+**I design observable, interruptible multi-agent systems grounded in real operations experience.** Local-first orchestration (LangGraph + Ollama + Docker) with human gates, full tracing, and replay.
 
-**Navigation**  
-[![Portfolio](https://img.shields.io/badge/-Portfolio-0366d6?style=flat&logo=vercel&logoColor=white)](https://movingbytes.dev)  
-
+**[movingbytes.dev](https://movingbytes.dev)** — Cinematic portfolio with particle canvas, retro simulations, and live demos
 
 ---
 
-## Talking about Personal Stuffs 🗣️
-
-- 👨‍💻 Currently building **production multi-agent systems** for ops, finance, and cybersecurity.
-- 🌱 Deepening **local AI orchestration** (Ollama + LangGraph) and evolving ClawX into agent arenas.
-- 🛠️ Open to collaboration on **ops-heavy automation** in trades/facilities or fintech.
-- 📖 Love real-world ops grounding, human-in-the-loop design, and Bible storytelling pipelines (LuxTTS).
-- 🎨 Obsessed with cinematic interfaces, retro aesthetics (Agentville), writing, and video gen.
-- ✉️ **jay@movingbytes.dev**
+## Navigation
+[![Portfolio](https://img.shields.io/badge/-Portfolio-0366d6?style=flat&logo=vercel&logoColor=white)](https://movingbytes.dev)
+[![Contact](https://img.shields.io/badge/-Contact_Me-f66a0a?style=flat&logo=minutemailer&logoColor=white)](mailto:jay@movingbytes.dev)
 
 ---
 
-## Technologies & Tools I Work With 📚
+## Talking about Personal Stuffs:
 
-<div style="display: flex; flex-wrap: wrap; gap: 8px; justify-content: center;">
+<p align="right">
+  <img width="45%" alt="Cyber/Terminal aesthetic" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGZ5MW9jZ291a243bTFrbmsweGhwZXhxZ3BqZmYxZXRwaHBteWZ5eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LmNwrBhejkK9EFP504/giphy.gif" style="border-radius: 8px;">
+</p>
 
-<span style="background: #4B8BBE; color: white; padding: 4px 10px; border-radius: 9999px; font-size: 0.9em;">Python</span>
-<span style="background: #3776AB; color: white; padding: 4px 10px; border-radius: 9999px; font-size: 0.9em;">LangGraph</span>
-<span style="background: #FF6B6B; color: white; padding: 4px 10px; border-radius: 9999px; font-size: 0.9em;">Ollama</span>
-<span style="background: #61DAFB; color: black; padding: 4px 10px; border-radius: 9999px; font-size: 0.9em;">TypeScript</span>
-<span style="background: #000000; color: white; padding: 4px 10px; border-radius: 9999px; font-size: 0.9em;">Next.js</span>
-<span style="background: #F7DF1E; color: black; padding: 4px 10px; border-radius: 9999px; font-size: 0.9em;">Pixi.js</span>
-<span style="background: #2496ED; color: white; padding: 4px 10px; border-radius: 9999px; font-size: 0.9em;">Docker</span>
-<span style="background: #2C3E50; color: white; padding: 4px 10px; border-radius: 9999px; font-size: 0.9em;">WebGL</span>
-**Core Languages & Orchestration**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) 
-![LangGraph](https://img.shields.io/badge/LangGraph-FF6B6B?style=flat-square&logo=langgraph&logoColor=white)
+- 👨🏽‍💻 I’m currently building **production multi-agent systems**, Permit Machine, Compliance Canary, and ops automation.
+- 🌱 Exploring **local video generation** with ComfyUI and advancing offensive security via OverTheWire.
+- 👯 Looking to collaborate on **ops-heavy automation** in trades/facilities and Red vs. Blue AI arenas.
+- 🤔 Seeking to push boundaries of **LangGraph** and local ML models.
+- 💬 Ask me about workflow orchestration (n8n), translating HVAC/trades chaos into code, or cybersecurity.
+- 📫 Reach me: [jay@movingbytes.dev](mailto:jay@movingbytes.dev)
 
-**Local AI & Infra**  
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white) 
+---
+
+## Technologies I Work With 📚
+
+**Core & Orchestration**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-FF6B6B?style=flat-square&logo=langchain&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
+
+**Infra & Tools**  
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-FF6D5A?style=flat-square&logo=n8n&logoColor=white)
+![ComfyUI](https://img.shields.io/badge/ComfyUI-4B0082?style=flat-square&logo=protools&logoColor=white)
 
-**Interfaces & Creative**  
-![WebGL](https://img.shields.io/badge/WebGL-000000?style=flat-square&logo=webgl&logoColor=white) 
-![Pixi.js](https://img.shields.io/badge/Pixi.js-FF6B6B?style=flat-square&logo=pixijs&logoColor=white) 
+**Interfaces & Security**  
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-
-</div>
-
-**Categories**  
-**Orchestration**: LangGraph • OpenClaw • State Machines • Human-in-the-Loop  
-**Local AI**: Ollama • SLMs • FastAPI • Streamlit  
-**Interfaces**: WebGL • Pixi.js • Retro CRT / Scanlines • Framer Motion  
-**Ops DNA**: HVAC/Trades • Inventory • Scheduling • Risk & AR • Observability  
-
-*(Full live demos on movingbytes.dev)*
+![WebGL](https://img.shields.io/badge/WebGL-990000?style=flat-square&logo=webgl&logoColor=white)
+![Pixi.js](https://img.shields.io/badge/Pixi.js-FF6B6B?style=flat-square&logo=pixijs&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=flat-square&logo=kali-linux&logoColor=white)
 
 ---
 
-## Featured Projects
+## GitHub Stats + Snake
 
-**hvac-ops-agent**  
-Production multi-agent orchestration for trades ops (inventory, scheduling, AR, risk) with human approval gates. Real crew experience baked in.  
-`Python • LangGraph • Docker • Human-in-the-Loop` — [Live Demo / Repo]
+![Stats](https://github-readme-stats.vercel.app/api?username=jayjz&include_all_commits=true&show_icons=true&hide_border=true&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jayjz&include_all_commits=true&show_icons=true&hide_border=true&layout=compact&theme=transparent)
 
-**agentplayground**  
-Agentic hedge-fund research copilot with real-time data, risk modeling, and auditable traces.  
-`LangGraph • Fintech • Observable AI`
+**Contribution Snake**  
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jayjz/jayjz/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jayjz/jayjz/output/github-snake.svg">
+  <img alt="github snake" src="https://raw.githubusercontent.com/jayjz/jayjz/output/github-snake-dark.svg">
+</picture>
 
-**local-adversarial-agent**  
-Fully local Red vs Blue AI arena. Narrative agents + checkpoint replay.  
-`Ollama • Simulation • Red Team`
-
-**agentville**  
-Windows 95 retro multi-agent simulation shell (Pixi.js + CRT).  
-`TypeScript • Next.js • Pixi.js` — [Live Demo]
-
-**psyop-threat-gauge + storyteller**  
-Defensive rumor detection + strict schema SLM pipelines.  
-`OpenClaw • Structured Output`
-
----
-
-## GitHub Stats + Snake Animation 🐍
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=jayjz&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" alt="Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayjz&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Languages" />
-</div>
-
-**Contribution Snake** 🐍
-![GitHub Snake](https://raw.githubusercontent.com/jayjz/jayjz/output/github-snake-dark.svg)
-
----
-
-## Philosophy
-**Observable • Interruptible • Human-Accountable • Local-First • Reality-Grounded.**  
-10+ years ops leadership (crews, inventory, risk) meets agent systems. Bonus creative work: Bible storytelling, cinematic video, and personal second-brain tools.
-
-**Let's build** — jay@movingbytes.dev | [movingbytes.dev](https://movingbytes.dev) |
-
-<sub>Production-grade or nothing • No slop • Systems that survive reality.</sub>
+⭐️ From [jayjz](https://github.com/jayjz)
