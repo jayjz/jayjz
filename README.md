@@ -88,6 +88,6 @@ Defensive rumor detection + strict schema SLM pipelines.
 **Observable • Interruptible • Human-Accountable • Local-First • Reality-Grounded.**  
 10+ years ops leadership (crews, inventory, risk) meets agent systems. Bonus creative work: Bible storytelling, cinematic video, and personal second-brain tools.
 
-**Let's build** — jay@movingbytes.dev | [movingbytes.dev](https://movingbytes.dev) | [@intheaetherr](https://x.com/intheaetherr)
+**Let's build** — jay@movingbytes.dev | [movingbytes.dev](https://movingbytes.dev) |
 
 <sub>Production-grade or nothing • No slop • Systems that survive reality.</sub>
