@@ -9,7 +9,7 @@
 
 **Navigation**  
 [![Portfolio](https://img.shields.io/badge/-Portfolio-0366d6?style=flat&logo=vercel&logoColor=white)](https://movingbytes.dev)  
-[![X](https://img.shields.io/badge/-@intheaetherr-1DA1F2?style=flat&logo=x&logoColor=white)](https://x.com/intheaetherr)
+
 
 ---
 
