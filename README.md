@@ -18,8 +18,8 @@
 - 🛠️ Open to collaboration on **ops-heavy agent workflows** in trades, facilities, or fintech.
 - 📖 Love real-world ops grounding, human-in-the-loop design, and Bible storytelling pipelines (LuxTTS).
 - 🎨 Obsessed with cinematic interfaces, retro aesthetics (Agentville), writing, and faceless video gen.
-- 📍 Nashua, NH area. Selective high-impact projects only.
-- ✉️ **jay@movingbytes.dev** | [@intheaetherr](https://x.com/intheaetherr)
+- 📍 Selective high-impact projects only.
+- ✉️ **jay@movingbytes.dev** 
 
 ---
 
@@ -79,7 +79,7 @@ Defensive rumor detection + strict schema SLM pipelines.
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayjz&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Languages" />
 </div>
 
-**Snake Animation** (updates on pushes)  
+**Contribution Snake** 🐍
 ![GitHub Snake](https://raw.githubusercontent.com/jayjz/jayjz/output/github-snake-dark.svg)
 
 ---
