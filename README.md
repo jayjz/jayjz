@@ -4,11 +4,16 @@
   </a>
 </div>
 
-**👨‍💻 Hi, I'm Jay, an Agent Systems Architect** 🚀
+<h1 align="center">👨‍💻 Hi, I'm Jay, an Agent Systems Architect 🚀</h1>
 
-**I design observable, interruptible multi-agent systems grounded in real operations experience.** Local-first orchestration (LangGraph + Ollama + Docker) with human gates, full tracing, and replay.
-
-**[movingbytes.dev](https://movingbytes.dev)** — Cinematic portfolio with particle canvas, retro simulations, and live demos
+<p align="center">
+  <a href="https://movingbytes.dev">
+    <img src="https://img.shields.io/badge/-Portfolio-0366d6?style=flat&logo=vercel&logoColor=white" alt="Portfolio">
+  </a>
+  <a href="mailto:jay@movingbytes.dev">
+    <img src="https://img.shields.io/badge/-Contact_Me-f66a0a?style=flat&logo=minutemailer&logoColor=white" alt="Contact">
+  </a>
+</p>
 
 ---
 
