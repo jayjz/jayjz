@@ -4,7 +4,7 @@
   </a>
 </div>
 
-<h1 align="center">👨‍💻 Hi, I'm Jay, an Agent Systems Architect 🚀</h1>
+<h1 align="center">👨‍💻 Hi, I'm Jay, an Agent Systems Architect </h1>
 
 <p align="center">
   <a href="https://movingbytes.dev">
