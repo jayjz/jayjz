@@ -4,7 +4,7 @@
   </a>
 </div>
 
-<h1 align="center">👨‍💻 Hi, I'm Jay, an Agent Systems Architect </h1>
+<h1 align="center">👨‍💻 Hi, I'm Jay, an Agent Systems Architect</h1>
 
 <p align="center">
   <a href="https://movingbytes.dev">
@@ -17,59 +17,69 @@
 
 ---
 
-## Navigation
-[![Portfolio](https://img.shields.io/badge/-Portfolio-0366d6?style=flat&logo=vercel&logoColor=white)](https://movingbytes.dev)
-[![Contact](https://img.shields.io/badge/-Contact_Me-f66a0a?style=flat&logo=minutemailer&logoColor=white)](mailto:jay@movingbytes.dev)
+## 🗣️ Talking about Personal Stuffs:
+
+<table border="0">
+  <tr>
+    <td width="60%" valign="top">
+      <ul>
+        <li>👨🏽‍💻 Building production multi-agent systems: <b>AgentPlayground</b> (async hedge-fund copilot), <b>Permit Machine</b>, and ops automation pipelines.</li>
+        <li>🛡️ Architecting <b>Compliance Canary</b> (policy-as-code security) + offensive security tooling.</li>
+        <li>🌱 Exploring local video generation (ComfyUI), LangGraph state machines, and local SLMs with Ollama.</li>
+        <li>👯 Open to collabs on ops-heavy automation, Red vs. Blue AI arenas, and translating real-world operations into resilient code.</li>
+        <li>💬 Ask me about: workflow orchestration (n8n), HVAC/trades process automation, cybersecurity (Kali/OSINT), or multi-agent orchestration.</li>
+        <li>📫 Reach me: <a href="mailto:jay@movingbytes.dev">jay@movingbytes.dev</a></li>
+      </ul>
+    </td>
+    <td width="40%" valign="top" align="right">
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGZ5MW9jZ291a243bTFrbmsweGhwZXhxZ3BqZmYxZXRwaHBteWZ5eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LmNwrBhejkK9EFP504/giphy.gif" style="border-radius: 8px;" width="100%" alt="Cyber cat coding">
+    </td>
+  </tr>
+</table>
 
 ---
 
-## Talking about Personal Stuffs:
+## 📚 Technical Armory
 
-<p align="right">
-  <img width="45%" alt="Cyber/Terminal aesthetic" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGZ5MW9jZ291a243bTFrbmsweGhwZXhxZ3BqZmYxZXRwaHBteWZ5eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LmNwrBhejkK9EFP504/giphy.gif" style="border-radius: 8px;">
-</p>
-
-- 👨🏽‍💻 I’m currently building **production multi-agent systems**, Permit Machine, Compliance Canary, and ops automation.
-- 🌱 Exploring **local video generation** with ComfyUI and advancing offensive security via OverTheWire.
-- 👯 Looking to collaborate on **ops-heavy automation** in trades/facilities and Red vs. Blue AI arenas.
-- 🤔 Seeking to push boundaries of **LangGraph** and local ML models.
-- 💬 Ask me about workflow orchestration (n8n), translating HVAC/trades chaos into code, or cybersecurity.
-- 📫 Reach me: [jay@movingbytes.dev](mailto:jay@movingbytes.dev)
-
----
-
-## Technologies I Work With 📚
-
-**Core & Orchestration**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+**Agentic Orchestration & Local AI**  
 ![LangGraph](https://img.shields.io/badge/LangGraph-FF6B6B?style=flat-square&logo=langchain&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
+![ComfyUI](https://img.shields.io/badge/ComfyUI-4B0082?style=flat-square&logo=protools&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
-**Infra & Tools**  
+**Infra & Pipelines**  
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-FF6D5A?style=flat-square&logo=n8n&logoColor=white)
-![ComfyUI](https://img.shields.io/badge/ComfyUI-4B0082?style=flat-square&logo=protools&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
-**Interfaces & Security**  
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![WebGL](https://img.shields.io/badge/WebGL-990000?style=flat-square&logo=webgl&logoColor=white)
-![Pixi.js](https://img.shields.io/badge/Pixi.js-FF6B6B?style=flat-square&logo=pixijs&logoColor=white)
+**Cybersecurity & Interfaces**  
 ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=flat-square&logo=kali-linux&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Pixi.js](https://img.shields.io/badge/Pixi.js-FF6B6B?style=flat-square&logo=pixijs&logoColor=white)
+![WebGL](https://img.shields.io/badge/WebGL-990000?style=flat-square&logo=webgl&logoColor=white)
+
+*(Expand with skill-icons.dev for denser grid if desired: `?i=python,typescript,langchain,ollama,docker,fastapi,n8n,comfyui,nextjs,pixijs,webgl,kali`)*
 
 ---
 
-## GitHub Stats + Snake
+## 📊 GitHub Analytics
 
-![Stats](https://github-readme-stats.vercel.app/api?username=jayjz&include_all_commits=true&show_icons=true&hide_border=true&theme=transparent)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jayjz&include_all_commits=true&show_icons=true&hide_border=true&layout=compact&theme=transparent)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jayjz&include_all_commits=true&show_icons=true&hide_border=true&theme=transparent" height="160em" alt="Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayjz&include_all_commits=true&show_icons=true&hide_border=true&layout=compact&theme=transparent" height="160em" alt="Top Langs">
+</p>
 
-**Contribution Snake**  
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jayjz/jayjz/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jayjz/jayjz/output/github-snake.svg">
-  <img alt="github snake" src="https://raw.githubusercontent.com/jayjz/jayjz/output/github-snake-dark.svg">
-</picture>
+### 🐍 Contribution Arena
 
-⭐️ From [jayjz](https://github.com/jayjz)
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jayjz/jayjz/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jayjz/jayjz/output/github-snake.svg">
+    <img alt="github snake" src="https://raw.githubusercontent.com/jayjz/jayjz/output/github-snake-dark.svg" width="100%">
+  </picture>
+</p>
+
+<p align="center">
+  <sub>Observable • Interruptible • Human-Accountable • Local-First • Reality-Grounded.</sub>
+</p>
