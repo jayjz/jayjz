@@ -27,7 +27,7 @@
         <li>🛡️ Building <b>agentville</b> — local simulation environment for validating multi-agent coordination and emergent behaviors before production.</li>
         <li>🌱 Deep in local-first AI: LangGraph state machines, Ollama SLMs, ComfyUI video generation, and WebGL interfaces (see biblemap).</li>
         <li>👯 Open to collaborations on ops-heavy automation (trades/facilities), Red vs. Blue AI arenas, and turning 10+ years of real-world operations into resilient agent systems.</li>
-        <li>💬 Ask me about: n8n workflow orchestration, HVAC/trades process automation, Linux + OSINT tooling, local SLM constraints, or multi-agent system design. Perhaps find me benchmarking custom tuned abliterated models trained on my own datasets.  </li>
+        <li>💬 Ask me about: n8n workflow orchestration, HVAC/trades process automation, Linux + OSINT tooling, local SLM constraints, or multi-agent system design. You'll often find me benchmarking custom-tuned abliterated models on my own datasets.</li>
         <li>📫 Reach me: <a href="mailto:jay@movingbytes.dev">jay@movingbytes.dev</a></li>
       </ul>
     </td>
@@ -44,13 +44,18 @@
 **Agentic Orchestration & Local AI**  
 ![LangGraph](https://img.shields.io/badge/LangGraph-FF6B6B?style=flat-square&logo=langchain&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
-![ComfyUI](https://img.shields.io/badge/ComfyUI-4B0082?style=flat-square&logo=protools&logoColor=white)
+![Hermes](https://img.shields.io/badge/Hermes-000000?style=flat-square&logo=ollama&logoColor=white)
+![OpenClaw](https://img.shields.io/badge/OpenClaw-FF6B6B?style=flat-square&logo=python&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![ComfyUI](https://img.shields.io/badge/ComfyUI-4B0082?style=flat-square&logo=protools&logoColor=white)
 
-**Infra & Pipelines**  
+**Infra, Cloud & Pipelines**  
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-FF6D5A?style=flat-square&logo=n8n&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=flat-square&logo=datadog&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
 **Cybersecurity & Interfaces**  
@@ -58,8 +63,10 @@
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![Pixi.js](https://img.shields.io/badge/Pixi.js-FF6B6B?style=flat-square&logo=pixijs&logoColor=white)
 ![WebGL](https://img.shields.io/badge/WebGL-990000?style=flat-square&logo=webgl&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-*(Expand with skill-icons.dev for denser grid if desired: `?i=python,typescript,langchain,ollama,docker,fastapi,n8n,comfyui,nextjs,pixijs,webgl,kali`)*
+**Denser Alternative (Recommended — replace badge sections with this):**
+[![Skills](https://skillicons.dev/icons?i=python,typescript,javascript,java,langchain,ollama,fastapi,docker,n8n,comfyui,nextjs,pixijs,webgl,kali,aws,azure,datadog,git,github,vercel&perline=8)](https://skillicons.dev)
 
 ---
 
