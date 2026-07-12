@@ -7,12 +7,8 @@
 <h1 align="center">👨‍💻 Hi, I'm Jay, an Agent Systems Architect</h1>
 
 <p align="center">
-  <a href="https://movingbytes.dev">
-    <img src="https://img.shields.io/badge/-Portfolio-0366d6?style=flat&logo=vercel&logoColor=white" alt="Portfolio">
-  </a>
-  <a href="mailto:jay@movingbytes.dev">
-    <img src="https://img.shields.io/badge/-Contact_Me-f66a0a?style=flat&logo=minutemailer&logoColor=white" alt="Contact">
-  </a>
+  <a href="https://movingbytes.dev"><img src="https://img.shields.io/badge/-Portfolio-0366d6?style=flat&logo=vercel&logoColor=white" alt="Portfolio"></a>
+  <a href="mailto:jay@movingbytes.dev"><img src="https://img.shields.io/badge/-Contact_Me-f66a0a?style=flat&logo=minutemailer&logoColor=white" alt="Contact"></a>
 </p>
 
 ---
@@ -23,12 +19,12 @@
   <tr>
     <td width="60%" valign="top">
       <ul>
-        <li>👨🏽‍💻 Shipping <b>hvac-ops-agent</b>: production multi-agent system for autonomous HVAC operations, code modernization, and technical debt elimination using FastAPI + multi-agent orchestration.</li>
-        <li>🛡️ Building <b>agentville</b> — local simulation environment for validating multi-agent coordination and emergent behaviors before production.</li>
-        <li>🌱 Deep in local-first AI: LangGraph state machines, Ollama SLMs, ComfyUI video generation, and WebGL interfaces (see biblemap).</li>
-        <li>👯 Open to collaborations on ops-heavy automation (trades/facilities), Red vs. Blue AI arenas, and turning 10+ years of real-world operations into resilient agent systems.</li>
-        <li>💬 Ask me about: n8n workflow orchestration, HVAC/trades process automation, Linux + OSINT tooling, local SLM constraints, or multi-agent system design. You'll often find me benchmarking custom-tuned abliterated models on my own datasets.</li>
-        <li>📫 Reach me: <a href="mailto:jay@movingbytes.dev">jay@movingbytes.dev</a></li>
+        <li>👨🏽‍💻 Shipping <b>hvac-ops-agent</b>: production multi-agent system for autonomous HVAC operations, code modernization, and technical debt elimination.</li>
+        <li>🛡️ Building <b>agentville</b> — local simulation for multi-agent coordination and emergent behaviors.</li>
+        <li>🌱 Deep in local-first AI: LangGraph, Ollama SLMs, ComfyUI, WebGL (biblemap).</li>
+        <li>👯 Open to collabs on ops-heavy automation, Red vs. Blue arenas, and real-world operations → resilient agents.</li>
+        <li>💬 Ask me about n8n, HVAC automation, OSINT/Kali, SLM tuning, or abliterated model benchmarking.</li>
+        <li>📫 <a href="mailto:jay@movingbytes.dev">jay@movingbytes.dev</a></li>
       </ul>
     </td>
     <td width="40%" valign="top" align="right">
@@ -42,46 +38,12 @@
 ## 📚 Technical Armory
 
 **Agentic AI & Orchestration**  
-![LangGraph](https://img.shields.io/badge/LangGraph-FF6B6B?style=flat-square&logo=langchain&logoColor=white)
-![CrewAI](https://img.shields.io/badge/CrewAI-E95420?style=flat-square&logo=robotframework&logoColor=white)
-![LlamaIndex](https://img.shields.io/badge/LlamaIndex-8A2BE2?style=flat-square&logo=llamaindex&logoColor=white)
-![AutoGen](https://img.shields.io/badge/AutoGen-0078D4?style=flat-square&logo=microsoft&logoColor=white)
-![OpenClaw](https://img.shields.io/badge/OpenClaw-FF6B6B?style=flat-square&logo=python&logoColor=white)
-
 **Local Inference & Execution**  
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
-![vLLM](https://img.shields.io/badge/vLLM-02569B?style=flat-square&logo=v&logoColor=white)
-![llama.cpp](https://img.shields.io/badge/llama.cpp-000000?style=flat-square&logo=cplusplus&logoColor=white)
-![Hermes](https://img.shields.io/badge/Hermes-000000?style=flat-square&logo=ollama&logoColor=white)
-![OpenRouter](https://img.shields.io/badge/OpenRouter-000000?style=flat-square&logo=openai&logoColor=white)
-
 **Model Tuning & Alignment**  
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FF9D00?style=flat-square&logo=huggingface&logoColor=white)
-![Unsloth](https://img.shields.io/badge/Unsloth-4B0082?style=flat-square&logo=protools&logoColor=white)
-![MergeKit](https://img.shields.io/badge/MergeKit-333333?style=flat-square&logo=git&logoColor=white)
+**Cybersecurity & OSINT**  
+**Full-Stack, Infra & Emerging Tech**
 
-**Cybersecurity, Red Teaming & OSINT**  
-![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=flat-square&logo=kali-linux&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1660EA?style=flat-square&logo=wireshark&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=flat-square&logo=portswigger&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-2E030F?style=flat-square&logo=nmap&logoColor=white)
-
-**Full-Stack, Infra & Emerging Tech**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-FF6D5A?style=flat-square&logo=n8n&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![WebGL](https://img.shields.io/badge/WebGL-990000?style=flat-square&logo=webgl&logoColor=white)
-![Pixi.js](https://img.shields.io/badge/Pixi.js-FF6B6B?style=flat-square&logo=pixijs&logoColor=white)
-![Blockchain](https://img.shields.io/badge/Blockchain-121212?style=flat-square&logo=bitcoin&logoColor=white)
-![Cryptography](https://img.shields.io/badge/Cryptography-0047AB?style=flat-square&logo=gnuprivacyguard&logoColor=white)
-
-**Denser Grid (Recommended — replace most badges with this):**
-[![My Skills](https://skillicons.dev/icons?i=python,typescript,javascript,langchain,ollama,fastapi,docker,n8n,comfyui,nextjs,pixijs,webgl,kali,aws,azure,git,github,vercel,blockchain,pytorch,huggingface,openrouter&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,typescript,javascript,java,langchain,crewai,llamaindex,autogen,ollama,vllm,llama.cpp,hermes,openrouter,pytorch,huggingface,unsloth,fastapi,docker,n8n,comfyui,nextjs,pixijs,webgl,kali,wireshark,burp,nmap,aws,azure,vercel,git,github,blockchain&perline=10)](https://skillicons.dev)
 
 ---
 
