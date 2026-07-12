@@ -41,32 +41,47 @@
 
 ## 📚 Technical Armory
 
-**Agentic Orchestration & Local AI**  
+**Agentic AI & Orchestration**  
 ![LangGraph](https://img.shields.io/badge/LangGraph-FF6B6B?style=flat-square&logo=langchain&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
-![Hermes](https://img.shields.io/badge/Hermes-000000?style=flat-square&logo=ollama&logoColor=white)
+![CrewAI](https://img.shields.io/badge/CrewAI-E95420?style=flat-square&logo=robotframework&logoColor=white)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-8A2BE2?style=flat-square&logo=llamaindex&logoColor=white)
+![AutoGen](https://img.shields.io/badge/AutoGen-0078D4?style=flat-square&logo=microsoft&logoColor=white)
 ![OpenClaw](https://img.shields.io/badge/OpenClaw-FF6B6B?style=flat-square&logo=python&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![ComfyUI](https://img.shields.io/badge/ComfyUI-4B0082?style=flat-square&logo=protools&logoColor=white)
 
-**Infra, Cloud & Pipelines**  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-FF6D5A?style=flat-square&logo=n8n&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=flat-square&logo=datadog&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+**Local Inference & Execution**  
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
+![vLLM](https://img.shields.io/badge/vLLM-02569B?style=flat-square&logo=v&logoColor=white)
+![llama.cpp](https://img.shields.io/badge/llama.cpp-000000?style=flat-square&logo=cplusplus&logoColor=white)
+![Hermes](https://img.shields.io/badge/Hermes-000000?style=flat-square&logo=ollama&logoColor=white)
+![OpenRouter](https://img.shields.io/badge/OpenRouter-000000?style=flat-square&logo=openai&logoColor=white)
 
-**Cybersecurity & Interfaces**  
+**Model Tuning & Alignment**  
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FF9D00?style=flat-square&logo=huggingface&logoColor=white)
+![Unsloth](https://img.shields.io/badge/Unsloth-4B0082?style=flat-square&logo=protools&logoColor=white)
+![MergeKit](https://img.shields.io/badge/MergeKit-333333?style=flat-square&logo=git&logoColor=white)
+
+**Cybersecurity, Red Teaming & OSINT**  
 ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=flat-square&logo=kali-linux&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Pixi.js](https://img.shields.io/badge/Pixi.js-FF6B6B?style=flat-square&logo=pixijs&logoColor=white)
-![WebGL](https://img.shields.io/badge/WebGL-990000?style=flat-square&logo=webgl&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Wireshark](https://img.shields.io/badge/Wireshark-1660EA?style=flat-square&logo=wireshark&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=flat-square&logo=portswigger&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-2E030F?style=flat-square&logo=nmap&logoColor=white)
 
-**Denser Alternative (Recommended — replace badge sections with this):**
-[![Skills](https://skillicons.dev/icons?i=python,typescript,javascript,java,langchain,ollama,fastapi,docker,n8n,comfyui,nextjs,pixijs,webgl,kali,aws,azure,datadog,git,github,vercel&perline=8)](https://skillicons.dev)
+**Full-Stack, Infra & Emerging Tech**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-FF6D5A?style=flat-square&logo=n8n&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![WebGL](https://img.shields.io/badge/WebGL-990000?style=flat-square&logo=webgl&logoColor=white)
+![Pixi.js](https://img.shields.io/badge/Pixi.js-FF6B6B?style=flat-square&logo=pixijs&logoColor=white)
+![Blockchain](https://img.shields.io/badge/Blockchain-121212?style=flat-square&logo=bitcoin&logoColor=white)
+![Cryptography](https://img.shields.io/badge/Cryptography-0047AB?style=flat-square&logo=gnuprivacyguard&logoColor=white)
+
+**Denser Grid (Recommended — replace most badges with this):**
+[![My Skills](https://skillicons.dev/icons?i=python,typescript,javascript,langchain,ollama,fastapi,docker,n8n,comfyui,nextjs,pixijs,webgl,kali,aws,azure,git,github,vercel,blockchain,pytorch,huggingface,openrouter&perline=8)](https://skillicons.dev)
 
 ---
 
