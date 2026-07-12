@@ -23,11 +23,11 @@
   <tr>
     <td width="60%" valign="top">
       <ul>
-        <li>👨🏽‍💻 Building production multi-agent systems: <b>AgentPlayground</b> (async hedge-fund copilot), <b>Permit Machine</b>, and ops automation pipelines.</li>
-        <li>🛡️ Architecting <b>Compliance Canary</b> (policy-as-code security) + offensive security tooling.</li>
-        <li>🌱 Exploring local video generation (ComfyUI), LangGraph state machines, and local SLMs with Ollama.</li>
-        <li>👯 Open to collabs on ops-heavy automation, Red vs. Blue AI arenas, and translating real-world operations into resilient code.</li>
-        <li>💬 Ask me about: workflow orchestration (n8n), HVAC/trades process automation, cybersecurity (Kali/OSINT), or multi-agent orchestration.</li>
+        <li>👨🏽‍💻 Shipping <b>hvac-ops-agent</b>: production multi-agent system for autonomous HVAC operations, code modernization, and technical debt elimination using FastAPI + multi-agent orchestration.</li>
+        <li>🛡️ Building <b>agentville</b> — local simulation environment for validating multi-agent coordination and emergent behaviors before production.</li>
+        <li>🌱 Deep in local-first AI: LangGraph state machines, Ollama SLMs, ComfyUI video generation, and WebGL interfaces (see biblemap).</li>
+        <li>👯 Open to collaborations on ops-heavy automation (trades/facilities), Red vs. Blue AI arenas, and turning 10+ years of real-world operations into resilient agent systems.</li>
+        <li>💬 Ask me about: n8n workflow orchestration, HVAC/trades process automation, Kali Linux + OSINT tooling, local SLM constraints, or multi-agent system design.</li>
         <li>📫 Reach me: <a href="mailto:jay@movingbytes.dev">jay@movingbytes.dev</a></li>
       </ul>
     </td>
