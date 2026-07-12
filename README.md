@@ -27,7 +27,7 @@
         <li>🛡️ Building <b>agentville</b> — local simulation environment for validating multi-agent coordination and emergent behaviors before production.</li>
         <li>🌱 Deep in local-first AI: LangGraph state machines, Ollama SLMs, ComfyUI video generation, and WebGL interfaces (see biblemap).</li>
         <li>👯 Open to collaborations on ops-heavy automation (trades/facilities), Red vs. Blue AI arenas, and turning 10+ years of real-world operations into resilient agent systems.</li>
-        <li>💬 Ask me about: n8n workflow orchestration, HVAC/trades process automation, Kali Linux + OSINT tooling, local SLM constraints, or multi-agent system design.</li>
+        <li>💬 Ask me about: n8n workflow orchestration, HVAC/trades process automation, Linux + OSINT tooling, local SLM constraints, or multi-agent system design. Perhaps find me benchmarking custom tuned abliterated models trained on my own datasets.  </li>
         <li>📫 Reach me: <a href="mailto:jay@movingbytes.dev">jay@movingbytes.dev</a></li>
       </ul>
     </td>
