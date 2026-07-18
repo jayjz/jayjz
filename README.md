@@ -14,11 +14,12 @@
   <tr>
     <td width="60%" valign="top">
       <ul>
-        <li>👨🏽‍💻 Shipping flagship projects: <b>aetherforge</b> (agent-aware dynamic memory hypervisor for predictive MoE expert management + KV-cache survival on consumer GPUs like RTX 4060) and <b>hvac-ops-agent</b> (production multi-agent system for autonomous HVAC operations, code modernization, and technical debt elimination).</li>
+        <li>🚀 **Flagship:** Shipping <b>aetherforge</b> — agent-aware dynamic memory hypervisor for predictive MoE expert management, layer orchestration, and KV-cache survival on consumer GPUs (RTX 4060 class). Core enabler for truly persistent, context-aware local agents.<grok-card data-id="256a73" data-type="citation_card" data-plain-type="" ></grok-card></li>
+        <li>👨🏽‍💻 Shipping <b>hvac-ops-agent</b>: production multi-agent system for autonomous HVAC operations, code modernization, and technical debt elimination.</li>
         <li>🛡️ Building <b>agentville</b> — local simulation for multi-agent coordination and emergent behaviors.</li>
         <li>🌱 Deep in local-first AI: LangGraph, Ollama SLMs, ComfyUI, WebGL (biblemap).</li>
         <li>👯 Open to collabs on ops-heavy automation, Red vs. Blue arenas, and real-world operations → resilient agents.</li>
-        <li>💬 Ask me about n8n, HVAC automation, OSINT/Kali, SLM tuning, or abliterated model benchmarking.</li>
+        <li>💬 Ask me about n8n, HVAC automation, OSINT/Kali, SLM tuning, abliterated model benchmarking, or dynamic MoE routing.</li>
         <li>📫 <a href="mailto:jay@movingbytes.dev">jay@movingbytes.dev</a></li>
       </ul>
     </td>
@@ -29,11 +30,11 @@
 </table>
 ---
 ## 📚 Technical Armory
-**Agentic AI & Orchestration**
-**Local Inference & Execution**
-**Model Tuning & Alignment**
-**Cybersecurity & OSINT**
-**Full-Stack, Infra & Emerging Tech**
+**Agentic AI & Orchestration**  
+**Local Inference & Execution**  
+**Model Tuning & Alignment**  
+**Cybersecurity & OSINT**  
+**Full-Stack, Infra & Emerging Tech**  
 [![My Skills](https://skillicons.dev/icons?i=python,typescript,javascript,java,langchain,crewai,llamaindex,autogen,ollama,vllm,llama.cpp,hermes,openrouter,pytorch,huggingface,unsloth,fastapi,docker,n8n,comfyui,nextjs,pixijs,webgl,kali,wireshark,burp,nmap,aws,azure,vercel,git,github,blockchain&perline=10)](https://skillicons.dev)
 ---
 ## 📊 GitHub Analytics
