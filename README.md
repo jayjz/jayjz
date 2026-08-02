@@ -8,7 +8,7 @@
   <a href="https://movingbytes.dev"><img src="https://img.shields.io/badge/-Portfolio-0366d6?style=flat&logo=vercel&logoColor=white" alt="Portfolio"></a>
   <a href="mailto:jay@movingbytes.dev"><img src="https://img.shields.io/badge/-Contact_Me-f66a0a?style=flat&logo=minutemailer&logoColor=white" alt="Contact"></a>
 </p>
----
+
 ## 🗣️ Talking about Personal Stuffs:
 <table border="0">
   <tr>
@@ -28,7 +28,7 @@
     </td>
   </tr>
 </table>
----
+
 ## 📚 Technical Armory
 **Agentic AI & Orchestration**  
 **Local Inference & Execution**  
@@ -36,7 +36,7 @@
 **Cybersecurity & OSINT**  
 **Full-Stack, Infra & Emerging Tech**  
 [![My Skills](https://skillicons.dev/icons?i=python,typescript,javascript,java,langchain,crewai,llamaindex,autogen,ollama,vllm,llama.cpp,hermes,openrouter,pytorch,huggingface,unsloth,fastapi,docker,n8n,comfyui,nextjs,pixijs,webgl,kali,wireshark,burp,nmap,aws,azure,vercel,git,github,blockchain&perline=10)](https://skillicons.dev)
----
+
 ## 📊 GitHub Analytics
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jayjz&include_all_commits=true&show_icons=true&hide_border=true&theme=transparent" height="160em" alt="Stats">
