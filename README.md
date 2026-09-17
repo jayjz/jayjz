@@ -2,9 +2,9 @@
 
 # Jay
 
-### Systems engineering for reliable AI, evaluation, and operator tooling
+### AI systems engineering · evaluation · reliable agent infrastructure
 
-I build software where **evidence, time, state, and authority boundaries** are part of correctness.
+I build systems for **verifiable AI decisions under real-world constraints** — where evidence, uncertainty, time, state, cost, and authority are part of correctness.
 
 [Portfolio](https://www.jaysystems.dev) · [GitHub](https://github.com/jayjz) · [Email](mailto:jay@jaysystems.dev)
 
@@ -12,124 +12,121 @@ I build software where **evidence, time, state, and authority boundaries** are p
 
 ---
 
-## What I work on
+## Current focus
 
-My current work sits at the intersection of **agent systems, backend/platform engineering, evaluation, security, and deterministic research tooling**.
+My work centers on a systems question:
 
-I care less about making an agent look autonomous and more about whether the system can answer harder questions:
+> **How do we make AI systems cheaper and more autonomous without making their behavior less measurable or trustworthy?**
 
-- What evidence produced this decision?
-- Was that evidence actually available at the time?
-- What state transition was authorized, and by whom?
-- Can the run be reproduced?
-- Can an evaluator inspect the result without trusting the producer?
+I explore that through agent evaluation, selective model routing, deterministic verification, constrained inference, security tooling, and reproducible research infrastructure.
 
-That usually leads me toward explicit contracts, bounded state, failure-aware execution, reproducible tests, and observability that survives beyond the demo.
+The recurring architecture is:
 
-## Current high-signal work
+```text
+task
+→ bounded execution
+→ evidence
+→ verification
+→ confidence / risk
+→ accept, abstain, or escalate
+```
+
+I prefer systems that expose uncertainty, preserve failures, separate proposal from authority, and leave enough evidence for independent evaluation.
+
+## Featured work
+
+### [TEMPER](https://github.com/jayjz/TEMPER)
+
+**Research into specialist models, calibrated abstention, verification, and selective escalation**
+
+TEMPER studies whether recurring bounded decisions handled by general-purpose models can progressively move to smaller specialized models while preserving system-level reliability.
+
+The current research measures predictive quality, calibration, selective risk, compute, latency, and ultimately **cost per verified correct decision**.
+
+**Python · scikit-learn · calibration · selective prediction · reproducible experimentation**
+
+---
 
 ### [CipherLoop](https://github.com/jayjz/CipherLoop) → [TraceForge](https://github.com/jayjz/TraceForge)
 
-**Evidence-producing security agent + independent trajectory evaluator**
+**Evidence-producing security agent + independent evaluator**
 
-CipherLoop is an experimental hybrid code-auditing agent built around sandboxed tool execution, deterministic compression, AST-backed source-to-sink validation, bounded active context, and append-only trajectory evidence.
+CipherLoop combines sandboxed tool execution, bounded context, deterministic compression, static analysis, AST-backed validation, and durable trajectory evidence.
 
-TraceForge evaluates those artifacts independently. Its current baseline reproduces two deterministic CipherLoop cases offline, validates provenance and evidence integrity, and keeps evaluator authority outside the agent that produced the run.
+TraceForge independently evaluates those artifacts without trusting the producing agent, checking provenance, integrity, source locations, and reproducibility.
 
-**Engineering signal:** Python · LangGraph · Docker · Semgrep · AST analysis · deterministic compression · provenance · evaluation infrastructure · reproducible baselines
+**Python · LangGraph · Docker · Semgrep · AST analysis · provenance · evaluation infrastructure**
 
-> Core thesis: **build agents that leave enough evidence to be independently evaluated.**
+> Build agents that leave enough evidence to be independently evaluated.
 
 ---
 
 ### [SHAD0W](https://github.com/jayjz/SHAD0W)
 
-**Deterministic quantitative research system focused on causal correctness**
+**Deterministic quantitative research infrastructure**
 
-SHAD0W models market observations, feature availability, signal creation, lifecycle state, execution eligibility, slippage, fees, evaluation, and independent paper-risk authority as separate contracts.
+SHAD0W separates market observations, information availability, strategy proposals, execution eligibility, lifecycle state, transaction costs, evaluation, and risk authority.
 
-A completed-bar signal cannot fill against the same close that created it. Live Alpaca data is translated into provider-neutral domain events for shadow-mode research; live capital remains outside the current system.
+Its purpose is not to make trading claims. It is to make temporal leakage, invalid execution assumptions, and unsupported conclusions difficult to express.
 
-**Engineering signal:** temporal correctness · deterministic simulation · event ordering · risk gates · immutable evidence · streaming market data · reproducible research
-
-> Information cannot influence an action until the system models it as available.
+**temporal systems · simulation · event ordering · risk boundaries · immutable evidence**
 
 ---
 
-### [AetherForge](https://github.com/jayjz/aetherforge)
+### [Crossinghouse](https://github.com/jayjz/crossinghouse)
 
-**Hardware-aware admission and safety control plane for local agents**
+**Task routing, deterministic verification, and selective escalation**
 
-AetherForge sits between autonomous callers and local inference infrastructure. It exposes resource state, evaluates admission requests, enforces queue/context/thermal boundaries, and returns explicit machine-readable rejection behavior instead of letting agents drive consumer GPUs into failure.
+Crossinghouse explores when inexpensive execution can handle a task locally, when deterministic verification can establish success, and when uncertainty should trigger escalation to more capable models.
 
-The verified path runs against a mock inference engine; physical fast-swap research remains isolated from the production hot path.
+Its current foundation is a provider-neutral typed kernel for task contracts, routing, bounded execution, verification, lifecycle transitions, and escalation decisions.
 
-**Engineering signal:** FastAPI · concurrency · admission control · backpressure · resource governance · failure contracts · local inference infrastructure
+**typed contracts · routing · verification · escalation · model economics**
 
----
+## Other systems
 
-### [Evidence Strategy Skills](https://github.com/jayjz/evidence-strategy-skills)
+| Project                                                                       | Focus                                                                                           |
+| ----------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- |
+| [AetherForge](https://github.com/jayjz/aetherforge)                           | Hardware-aware admission control, backpressure, and resource governance for local inference     |
+| [Evidence Strategy Skills](https://github.com/jayjz/evidence-strategy-skills) | Controlled experiments for determining whether Agent Skills measurably improve decisions        |
+| [Unhinged Agent](https://github.com/jayjz/unhinged-agent)                     | Cancellable local voice pipeline with WebSockets, VAD → STT → LLM → TTS, and barge-in           |
+| [Sightglass](https://github.com/jayjz/sightglass)                             | Agent control plane with state streaming, human approval boundaries, and operator observability |
+| [Fracture](https://github.com/jayjz/fracture)                                 | Failure injection and recovery research for graph-based agents                                  |
+| [Truck Ready HVAC](https://github.com/jayjz/truck-ready-hvac)                 | Offline-oriented field software built from real HVAC/construction workflow constraints          |
 
-**Research platform for testing whether Agent Skills measurably improve decisions**
-
-This project treats skills as hypotheses rather than prompt assets. It defines evidence provenance, support/counterevidence relationships, claim states, baseline isolation, held-out evaluation, grader boundaries, and cost accounting before promoting any skill as useful.
-
-Current status is intentionally early: the methodology exists; the first real skill-vs-baseline usefulness experiment has not yet been run.
-
-**Engineering signal:** evaluation design · epistemic contracts · provenance · experimental controls · model portability · reproducible research
-
-## Selected systems
-
-| Project | Focus | What it demonstrates |
-|---|---|---|
-| [Unhinged Agent](https://github.com/jayjz/unhinged-agent) | Local voice system | FastAPI/WebSockets, VAD → STT → LLM → TTS, cancellable state machine, barge-in, RTX 4060-class local inference |
-| [Sightglass](https://github.com/jayjz/sightglass) | Agent control plane | FastAPI, LangGraph state streaming, SSE, human approval gates, local inference, operator observability |
-| [Fracture](https://github.com/jayjz/fracture) | Agent failure research | Failure injection, topology-aware state handling, parallel-safe LangGraph reducers, recovery/evaluation foundations |
-| [Truck Ready HVAC](https://github.com/jayjz/truck-ready-hvac) | Field software | Typed domain models, pure business logic, offline JSON/PDF workflows, CI, real contractor-oriented UX |
-
-## How I build
+## Engineering principles
 
 ```text
-inspect the system
-→ make the contract explicit
+make the contract explicit
 → isolate authority
 → preserve evidence
-→ test adversarial cases
-→ measure the behavior
+→ test failure paths
+→ measure behavior
 → keep the claim no larger than the proof
 ```
 
-A few recurring principles:
-
-- **Evidence over demos.** A successful output matters less than whether the path to it is inspectable.
-- **Determinism where it buys trust.** Reproducibility is a feature, especially around evaluation, finance, and security.
-- **Fail closed at critical boundaries.** Invalid or stale state should not quietly become authority.
-- **Small systems beat ornamental architecture.** Complexity has to earn its place.
-- **Human review stays explicit.** High-impact actions should have visible, testable approval boundaries.
+* **Evidence over demos**
+* **Verification independent of generation**
+* **Explicit uncertainty and abstention**
+* **Determinism where it improves trust**
+* **Fail-closed critical boundaries**
+* **Complexity must earn its place**
+* **Human authority remains visible**
 
 ## Technical focus
 
-**Languages:** Python · TypeScript/JavaScript · SQL  
-**Backend / systems:** FastAPI · LangGraph · Pydantic · WebSockets · SSE · async Python · REST APIs  
-**Data / evaluation:** deterministic pipelines · provenance · simulation · experiment design · scikit-learn · Pandas  
-**Infrastructure:** Docker · PostgreSQL · Redis · GitHub Actions · Linux · local model runtimes  
-**AI / inference:** Ollama · llama.cpp · local tool-calling models · hybrid local/cloud orchestration  
-**Security:** sandboxed execution · static analysis · AST validation · OSINT/recon tooling · evidence-backed auditing
+**Python · TypeScript · SQL · FastAPI · Pydantic · LangGraph · Docker · PostgreSQL · Redis · WebSockets · SSE · GitHub Actions · Ollama · llama.cpp**
+
+Current areas: **AI evaluation · agent infrastructure · selective prediction · calibration · backend/platform engineering · local inference · security · deterministic systems**
 
 ## Background
 
-Before moving fully into software, I spent more than a decade in HVAC and construction operations. That background still shapes how I build: systems have to survive incomplete information, constrained resources, real operators, and failure states that do not care about the demo.
+I came to software after more than a decade in HVAC and construction operations.
 
-I hold a bachelor's degree in Business Administration from UMass Lowell and focus my engineering work on reliable AI systems, backend/platform development, evaluation infrastructure, and applied systems research.
+That experience still shapes how I engineer systems: incomplete information, constrained resources, unreliable connectivity, operator handoffs, and failure states are normal operating conditions—not edge cases.
 
-## Contact
-
-- **Portfolio:** [jaysystems.dev](https://www.jaysystems.dev)
-- **GitHub:** [github.com/jayjz](https://github.com/jayjz)
-- **Email:** [jay@jaysystems.dev](mailto:jay@jaysystems.dev)
+B.B.A., University of Massachusetts Lowell.
 
 ---
 
-<sub>
-Keywords: AI systems engineering · agent evaluation · backend engineering · platform engineering · Python · FastAPI · LangGraph · Docker · local AI · LLM infrastructure · cybersecurity · deterministic systems · observability · provenance · causal simulation
-</sub>
+[**jaysystems.dev**](https://www.jaysystems.dev) · [**github.com/jayjz**](https://github.com/jayjz) · [**jay@jaysystems.dev**](mailto:jay@jaysystems.dev)
